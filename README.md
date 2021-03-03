@@ -11,6 +11,7 @@ I've been tasked with refactoring this website for accessibility standards & opt
 - Added a header & footer
 - Updated the html to make it semantic
 - restructured CSS to follow the Html
+- CSS Grouping to reduce Repeating
 - Added notes
 
 ## Screenshots
