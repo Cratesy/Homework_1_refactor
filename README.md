@@ -1,6 +1,6 @@
 # Title
 
-    Homework_1_refactor
+Horiseon Refactor
 
 ## Descriptions
 
@@ -15,7 +15,9 @@ We've been tasked with refactoring this website for accessibility standards & op
 - Added notes
 - Added Alts to images
 
-## Screenshots
+## Screenshot of working website
+
+<img src= "assets\images\Finished website.png" alt="Finished website"/>
 
 ## link to the deployed application
 
