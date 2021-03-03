@@ -4,7 +4,7 @@
 
 ## Descriptions
 
-I've been tasked with refactoring this website for accessibility standards & optimized for search engines by doing the following;
+We've been tasked with refactoring this website for accessibility standards & optimized for search engines by doing the following;
 
 - Created a concise descriptive title
 - Fixed broken link navigation
@@ -19,4 +19,4 @@ I've been tasked with refactoring this website for accessibility standards & opt
 
 ## link to the deployed application
 
-https://cratesy.github.io/Homework_1_refactor/.
+click [Here](https://cratesy.github.io/Homework_1_refactor/.) to view project on github.
