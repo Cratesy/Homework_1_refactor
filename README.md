@@ -17,7 +17,7 @@ We've been tasked with refactoring this website for accessibility standards & op
 
 ## Screenshot of working website
 
-<img src= "assets\images\Finished website.png" alt="Finished website"/>
+<img src= "add here" alt="Finished website"/>
 
 ## link to the deployed application
 
