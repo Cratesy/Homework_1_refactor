@@ -76,8 +76,10 @@ section {
   display: inline-block;
   margin-left: 20px;
 }
-
-.search-engine-optimization {
+/* ive added this 3 under the same css */
+.search-engine-optimization,
+.online-reputation-management,
+.social-media-marketing {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -95,24 +97,6 @@ section img {
 section h2 {
   margin-bottom: 20px;
   font-size: 36px;
-}
-
-.online-reputation-management {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-.social-media-marketing {
-  margin-bottom: 15px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
 }
 
 /* This is the aside section */
