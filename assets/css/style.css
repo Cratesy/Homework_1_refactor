@@ -71,7 +71,7 @@ p {
   margin-left: 25px;
 }
 
-section {
+main {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
@@ -89,12 +89,12 @@ section {
 }
 
 /* All img within section */
-section img {
+main img {
   max-height: 200px;
 }
 
 /* All H2 within section */
-section h2 {
+main h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
