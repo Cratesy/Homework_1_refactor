@@ -51,7 +51,7 @@ p {
   font-size: 20px;
 }
 
-/* This is the main image */
+/* This is the background image */
 .hero {
   height: 800px;
   width: 100%;
@@ -76,7 +76,7 @@ main {
   display: inline-block;
   margin-left: 20px;
 }
-/* ive added this 3 under the same css */
+/* grouped these together  */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -88,12 +88,12 @@ main {
   color: #ffffff;
 }
 
-/* All img within section */
+/* All img within main */
 main img {
   max-height: 200px;
 }
 
-/* All H2 within section */
+/* All H2 within main */
 main h2 {
   margin-bottom: 20px;
   font-size: 36px;
@@ -111,20 +111,20 @@ main h2 {
   background-color: #2589bd;
 }
 
-/* I've put all benefit <P> under this tag */
+/* All benefit <P> under this tag */
 .benefits p {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
-/* I've put all benefit h3 under this tag */
+/* All benefit h3 under this tag */
 .benefits h3 {
   margin-bottom: 10px;
   text-align: center;
   color: #ffffff;
 }
 
-/* I've labeled all benefit images under this tag */
+/* ll benefit images under this tag */
 .benefits img {
   display: block;
   margin: 10px auto;
