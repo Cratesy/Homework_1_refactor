@@ -22,4 +22,4 @@ We've been tasked with refactoring this website for accessibility standards & op
 
 ## link to the deployed application
 
-click [Here](https://cratesy.github.io/Homework_1_refactor/.) to view project on github.
+click [Here](https://cratesy.github.io/horiseon_website_refactor/) to view project on github.
